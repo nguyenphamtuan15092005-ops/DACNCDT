@@ -3,8 +3,6 @@ import math
 import statistics
 
 '''
-
-2.3.1. Các bước tiến hành thực nghiệm
 Bước 1: Chọn một giá trị thực bất kỳ trong giới hạn đo của cảm biến
 Bước 2: Tiến hành đo 100 lần
 Bước 3: Tính các thông số sau
